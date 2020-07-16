@@ -1,0 +1,21 @@
+body {
+	background: #f2f2f2;
+	font-family: 'Roboto', sans-serif;
+}
+
+.column {
+	margin-top: 16px;
+}
+
+textarea {
+	width: 100%;
+	border: 1px solid #4766FF;
+	padding: 8px;
+}
+
+.btn-comment {
+	margin-top: 12px;
+	background: #4766FF;
+	border-radius: 0;
+}
+
