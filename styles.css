@@ -7,6 +7,10 @@ body {
 	margin-top: 16px;
 }
 
+hr {
+	margin-bottom: 8px;
+}
+
 textarea {
 	width: 100%;
 	border: 1px solid #4766FF;
@@ -17,5 +21,24 @@ textarea {
 	margin-top: 12px;
 	background: #4766FF;
 	border-radius: 0;
+}
+
+.comment {
+	margin: 0 16px;
+}
+
+.comment-user {
+	font-size: 16px;
+	color: #4C63D5;
+	margin-bottom: 8px;
+}
+
+.comment-user small {
+	margin-left: 8px;
+}
+
+.comment-text {
+	font-size: 14px;
+	color: #4F4F4F;
 }
 
